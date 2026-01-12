@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **XGBoost (A famous Python framework)**
 
-- 👨‍💻 All of my projects are available at [https://kaustubhware.github.io/](https://kaustubhware.github.io/)
+- 👨‍💻 All of my projects are available at [https://kaustubhware.github.io/](file:///C:/Users/91772/Desktop/KAUSTUBH/portfolio/)
 
 - 💬 Ask me about **AI, ML, DS**
 
